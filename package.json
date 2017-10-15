@@ -1,0 +1,19 @@
+{
+  "name": "fpkatas",
+  "version": "1.0.0",
+  "description": "functional programming katas and exercises in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "mdasilva",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "jshint": "^2.9.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scatt89/fpkatas.git"
+  }
+}
