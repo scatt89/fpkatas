@@ -1,4 +1,4 @@
-const luhnTest = require('../lib/01_luhn_test/luhnTest');
+const luhnTest = require('../lib/01_cap/luhnTest');
 
 describe('01_luhn_test', () => {
     "use strict";
